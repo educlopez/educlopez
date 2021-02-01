@@ -37,7 +37,7 @@ Puedes contactarme mi [Perfil de LinkedIn](https://www.linkedin.com/in/educlopez
 - 📫 Contactar conmigo: [Email](educlopez93@gmail.com), [Twitter](https://twitter.com/educlopez93)
 - ⚡ Info Random: Mis peliculas favoritas son "Harry Potter", "El señor de los anillos", "Trilogía de Batman de Nolan", "Joker"
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=educlopez&count_private=true&show_icons=true&locale=es&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=educlopez&count_private=true&show_icons=true&locale=es&icon_color=fbb828&title_color=fbb828&bg_color=f8fafc)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/><br/><br/><br/>
