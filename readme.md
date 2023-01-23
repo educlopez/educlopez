@@ -36,6 +36,5 @@ Puedes contactarme mi [Perfil de LinkedIn](https://www.linkedin.com/in/educlopez
 
 **[Visita mi website &rarr;](https://educalvolopez.com/)**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=educlopez&theme=dark&count_private=true&show_icons=true&locale=es&icon_color=fbb828&title_color=fbb828)](https://github.com/anuraghazra/github-readme-stats)
 
 [![@educlopez93's Holopin board](https://holopin.me/educlopez93)](https://holopin.io/@educlopez93)
