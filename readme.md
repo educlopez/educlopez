@@ -31,9 +31,8 @@ Puedes contactarme mi [Perfil de LinkedIn](https://www.linkedin.com/in/educlopez
 
 ## Información:
 
-- 🌱 Actualmente estoy aprendiendo: Vue, React
-- 📫 Contactar conmigo: [Email](educlopez93@gmail.com), [Twitter](https://twitter.com/educlopez93)
-- ⚡ Info Random: Mis peliculas favoritas son "🧙‍♂️Harry Potter", "💍El señor de los anillos", "🦇Trilogía de Batman de Nolan", "🤡Joker"
+- 🌱 Actualmente estoy aprendiendo: Astro, React, Framer-motion
+- 📫 Contactar conmigo: [Email](educlopez93@gmail.com), [X](https://x.com/educlopez93)
 
 **[Visita mi website &rarr;](https://educalvolopez.com/)**
 
