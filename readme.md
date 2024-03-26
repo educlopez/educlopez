@@ -35,6 +35,3 @@ Puedes contactarme mi [Perfil de LinkedIn](https://www.linkedin.com/in/educlopez
 - 📫 Contactar conmigo: [Email](educlopez93@gmail.com), [X](https://x.com/educlopez93)
 
 **[Visita mi website &rarr;](https://educalvolopez.com/)**
-
-
-[![@educlopez93's Holopin board](https://holopin.me/educlopez93)](https://holopin.io/@educlopez93)
