@@ -13,7 +13,7 @@
 
 👋 Hola soy Eduardo Calvo López Diseñador Gráfico y maquetador web
 
-Puedes contactarme mi [Perfil de LinkedIn](https://www.linkedin.com/in/educlopez/).
+Puedes contactarme en mi [Perfil de LinkedIn](https://www.linkedin.com/in/educlopez/).
 
 ## Herramientas
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
