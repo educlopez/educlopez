@@ -11,7 +11,7 @@
   <br />
 </p>
 
-👋 Hola soy Eduardo Calvo López Diseñador Gráfico y maquetador web
+👋 Hola soy Eduardo Calvo López Diseñador Web y Frontend
 
 Puedes contactarme en mi [Perfil de LinkedIn](https://www.linkedin.com/in/educlopez/).
 
