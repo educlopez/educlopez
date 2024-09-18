@@ -20,8 +20,6 @@ Puedes contactarme en mi [Perfil de LinkedIn](https://www.linkedin.com/in/educlo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -31,7 +29,7 @@ Puedes contactarme en mi [Perfil de LinkedIn](https://www.linkedin.com/in/educlo
 
 ## Información:
 
-- 🌱 Actualmente estoy aprendiendo: Astro, React, Framer-motion
+- 🌱 Actualmente estoy aprendiendo: Framer-motion y Laravel
 - 📫 Contactar conmigo: [Email](educlopez93@gmail.com), [X](https://x.com/educlopez93)
 
 **[Visita mi website &rarr;](https://educalvolopez.com/)**
