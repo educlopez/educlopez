@@ -5,7 +5,7 @@
 #
 
 <p align="center">
-  <a href="https://x/educalvolpz">X/Twitter</a> •
+  <a href="https://x.com/educalvolpz">X/Twitter</a> •
   <a href="https://educalvolopez.com">Web</a> •
   <a href="https://dribbble.com/educlopez93">Dribbble</a>
   <br />
@@ -30,6 +30,6 @@ Puedes contactarme en mi [Perfil de LinkedIn](https://www.linkedin.com/in/educlo
 ## Información:
 
 - 🌱 Actualmente estoy aprendiendo: Framer-motion y Laravel
-- 📫 Contactar conmigo: [Email](educlopez93@gmail.com), [X](https://x.com/educalvolpz)
+- 📫 Contactar conmigo: [Email](educlopez93@gmail.com), [X/Twitter](https://x.com/educalvolpz)
 
 **[Visita mi website &rarr;](https://educalvolopez.com/)**
