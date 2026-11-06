@@ -31,7 +31,7 @@ I care about the details — easing curves, spacing, typography, the things that
 | [**codevator.dev**](https://codevator.dev) | Background music for AI coding agents — plays while they work, stops when they need you | ![Stars](https://img.shields.io/github/stars/educlopez/codevator?style=flat&color=yellow) |
 | [**sparkbites.dev**](https://sparkbites.dev) | Curated directory of web design inspiration with color palettes, typography & stats | |
 | [**Polaris**](https://github.com/educlopez/Polaris) | Clean portfolio template built with Astro for designers & developers | ![Stars](https://img.shields.io/github/stars/educlopez/Polaris?style=flat&color=yellow) |
-| [**ui-craft**](https://skills.smoothui.dev) | Design engineering skill that teaches AI agents to build interfaces with real taste | ![Stars](https://img.shields.io/github/stars/educlopez/ui-craft?style=flat&color=yellow) |
+| [**ui-craft**](https://ui-craft.smoothui.dev) | Design engineering skill that teaches AI agents to build interfaces with real taste | ![Stars](https://img.shields.io/github/stars/educlopez/ui-craft?style=flat&color=yellow) |
 | [**roast.educalvolopez.com**](https://roast.educalvolopez.com) | Submit your website, get a free redesign | |
 
 ---
